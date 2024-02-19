@@ -23,7 +23,7 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zinaida_liashenko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
 
 [![Email](https://img.shields.io/badge/Gmail-liashenkozina@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](liashenkozina@gmail.com)
 
