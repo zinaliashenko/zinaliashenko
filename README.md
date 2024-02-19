@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# About me
-
-Hello! My name is Zina and I am a beginner in Data Science. This repository is my laboratory where I learn and apply the core concepts and skills in this exciting field.
+My name is Zina and I am a beginner in Data Science. This repository is my laboratory where I learn and apply the core concepts and skills in this exciting field.
 
 ## My interests
 
@@ -26,7 +24,9 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 ## 📫 How to reach me:
 
 [liashenkozina@gmail.com](mailto:liashenkozina@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
 
 ---
