@@ -5,19 +5,19 @@ My name is Zina and I am a beginner in Data Science. This repository is my labor
 ## My interests
 
 - **:snake:Programming languages:** I am learning Python
-- **Machine learning:** I am interested in classification and clustering algorithms, recommendation systems, and NLP.
-- **Data Visualization:** Experimenting with libraries like Matplotlib and Seaborn.
-- **Projects:** I plan to work on projects related to real data and solving practical problems.
+- **:rocket:Machine learning:** I am interested in classification and clustering algorithms, recommendation systems, and NLP.
+- **:bar_chart:Data Visualization:** Experimenting with libraries like Matplotlib and Seaborn.
+- **:pushpin:Projects:** I plan to work on projects related to real data and solving practical problems.
 
-## Project in this repository
+## :art:Project in this repository
 
 In this repository you will find the following:
 
-- **Notebooks:** My study materials and data analysis.
-- **Scripts:** My Python scripts that I use to process data and solve problems.
-- **Data:** I save the data I work with in my projects.
+- **:green_book:Notebooks:** My study materials and data analysis.
+- **:bookmark_tabs:Scripts:** My Python scripts that I use to process data and solve problems.
+- **:chart_with_upwards_trend:Data:** I save the data I work with in my projects.
 
-## 👯 Learning together
+## :family:Learning together
 
 I am always open to study and cooperation. If you have any tips, comments, or suggestions, please let me know! I will be grateful for any help or sharing of experience.
 
