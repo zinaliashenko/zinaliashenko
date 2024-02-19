@@ -9,7 +9,7 @@ My name is Zina and I am a beginner in Data Science. This repository is my labor
 - **:bar_chart:Data Visualization:** Experimenting with libraries like Matplotlib and Seaborn.
 - **:pushpin:Projects:** I plan to work on projects related to real data and solving practical problems.
 
-## :art:Project in this repository
+## :art:Projects in this repository
 
 In this repository you will find the following:
 
@@ -23,17 +23,15 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 ## 📫 How to reach me:
 
-<p align="left">
-  <a href="mailto:liashenkozina@gmail.com" style="width: 200px; border-radius: 10px; background-color: #FF5733;">
-    <img src="https://img.shields.io/badge/Email-Me-<orange>?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zinaida-liashenko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
 
-[![Email](https://img.shields.io/badge/Gmail-Profile-red?style=flat-square&logo=gmail&logoColor=white)](liashenkozina@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-liashenkozina@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](liashenkozina@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-zinaliashenko-green?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
+[![Telegram](https://img.shields.io/badge/Telegram-zinaliashenko-2CA5E0?style=flat-square&logo=gmail&logoColor=white)](t.me/zinaliashenko)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
+[![GitHub](https://img.shields.io/badge/GitHub-zinaliashenko-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
+
+
 
 
 ---
