@@ -4,7 +4,7 @@ My name is Zina and I am a beginner in Data Science. This repository is my labor
 
 ## :sunflower:My interests
 
-- **:snake:Programming languages:** I am learning Python
+- **:snake:Programming languages:** I am learning Python.
 - **:rocket:Machine learning:** I am interested in classification and clustering algorithms, recommendation systems, and NLP.
 - **:bar_chart:Data Visualization:** Experimenting with libraries like Matplotlib and Seaborn.
 - **:pushpin:Projects:** I plan to work on projects related to real data and solving practical problems.
