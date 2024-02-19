@@ -25,9 +25,9 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 ## Communication
 
-- **Email:** liashenkozina@gmail.com
-- **LinkedIn:** [Zina]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/zinaida-liashenko/))
-- ![github](https://github.com/zinaliashenko)
+- **Електронна пошта:** [liashenkozina@gmail.com](mailto:liashenkozina@gmail.com)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
 
 ---
 **Thank you for your interest!**
