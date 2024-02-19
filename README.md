@@ -2,18 +2,18 @@
 
 # About me
 
-Hello! My name is Zina and I am a beginner in Data Science. This repository is my own laboratory where I learn and apply the core concepts and skills in this exciting field.
+Hello! My name is Zina and I am a beginner in Data Science. This repository is my laboratory where I learn and apply the core concepts and skills in this exciting field.
 
 ## My interests
 
 - **Programming languages:** I am learning Python
-- **Machine learning:** I am interested in classification and clustering algorithms, recommendation systems and NLP.
+- **Machine learning:** I am interested in classification and clustering algorithms, recommendation systems, and NLP.
 - **Data Visualization:** Experimenting with libraries like Matplotlib and Seaborn.
 - **Projects:** I plan to work on projects related to real data and solving practical problems.
 
 ## Project in this repository
 
-In this repository you will find:
+In this repository you will find the following:
 
 - **Notebooks:** My study materials and data analysis.
 - **Scripts:** My Python scripts that I use to process data and solve problems.
@@ -27,7 +27,7 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 - **Email:** liashenkozina@gmail.com
 - **LinkedIn:** [Zina]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/zinaida-liashenko/))
-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- ![github](https://github.com/zinaliashenko)
 
 ---
 **Thank you for your interest!**
