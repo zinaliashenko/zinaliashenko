@@ -25,6 +25,12 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 [liashenkozina@gmail.com](mailto:liashenkozina@gmail.com)
 
+<p align="center">
+  <a href="mailto:liashenkozina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-<orange>?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
