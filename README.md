@@ -2,7 +2,7 @@
 
 My name is Zina and I am a beginner in Data Science. This repository is my laboratory where I learn and apply the core concepts and skills in this exciting field.
 
-## My interests
+## :sunflower:My interests
 
 - **:snake:Programming languages:** I am learning Python
 - **:rocket:Machine learning:** I am interested in classification and clustering algorithms, recommendation systems, and NLP.
@@ -24,14 +24,17 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 ## 📫 How to reach me:
 
 <p align="left">
-  <a href="mailto:liashenkozina@gmail.com">
+  <a href="mailto:liashenkozina@gmail.com" style="width: 200px; border-radius: 10px; background-color: #FF5733;">
     <img src="https://img.shields.io/badge/Email-Me-<orange>?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
 </p>
 
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](liashenkozina@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github&logoColor=white)](https://github.com/zinaliashenko)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zinaida-liashenko/)
+
 
 ---
 **Thank you for your interest!**
