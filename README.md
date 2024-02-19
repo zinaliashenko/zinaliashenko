@@ -23,9 +23,7 @@ I am always open to study and cooperation. If you have any tips, comments, or su
 
 ## 📫 How to reach me:
 
-[liashenkozina@gmail.com](mailto:liashenkozina@gmail.com)
-
-<p align="center">
+<p align="left">
   <a href="mailto:liashenkozina@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-<orange>?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
